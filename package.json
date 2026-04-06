@@ -95,7 +95,7 @@
     "@vueuse/integrations": "^13.0.0",
     "colortranslator": "^4.1.0",
     "consola": "^3.4.2",
-    "defu": "^6.1.4",
+    "defu": "^6.1.5",
     "embla-carousel-auto-height": "^8.5.2",
     "embla-carousel-auto-scroll": "^8.5.2",
     "embla-carousel-autoplay": "^8.5.2",
